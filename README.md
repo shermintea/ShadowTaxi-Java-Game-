@@ -73,7 +73,7 @@ ShadowTaxi/
 - Bagel Framework - For providing an easy-to-use framework for 2D Java games.
 - Inspired by Java coursework
 
---
+---
 
 ## Optional Enhancements
 - Add levels, difficulty, or scoring system.
